@@ -1,0 +1,7 @@
+﻿fecha;url;usuario;resultado;detalle
+2026-11-04 19:07:04;"jdbc:sqlite:inventario.db";"";Conexión exitosa;"Motor: SQLite 3.46.1 | Driver: SQLite JDBC 3.46.1.3 | URL: jdbc:sqlite:inventario.db"
+2026-11-04 19:10:13;"jdbc:sqlite:C:/carpeta_inexistente/inventario.db";"";Fallo de conexión;"Mensaje técnico: path to 'C:/carpeta_inexistente/inventario.db': 'C:\carpeta_inexistente' does not exist | SQLState: null   Código: 0"
+2026-11-04 19:11:32;"jdbc:mysql://localhost:3306/inventario";"";Fallo del driver JDBC;"No se encontró la clase del driver: com.mysql.cj.jdbc.Driver | Agregue el archivo .jar del driver a la carpeta lib y al classpath."
+2026-11-04 19:12:30;"";"";Datos incompletos;"Debe escribir la URL de conexión, por ejemplo jdbc:sqlite:inventario.db"
+2026-11-04 19:13:35;"jdbc:h2:mem:inventario";"admin";Fallo de conexión;"Mensaje técnico: No suitable driver found for jdbc:h2:mem:inventario | SQLState: 08001   Código: 0"
+2026-11-04 19:51:27;"jdbc:sqlite:inventario.db";"";Conexión exitosa;"Motor: SQLite 3.46.1 | Driver: SQLite JDBC 3.46.1.3 | URL: jdbc:sqlite:inventario.db"
