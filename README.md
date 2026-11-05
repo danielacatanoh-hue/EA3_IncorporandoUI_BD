@@ -62,4 +62,3 @@ EA3_IncorporandoUI_BD/
 |------------|-------------|
 | Daniela Cataño Hernández | _pendiente_ |
 | Anderson Julián Valencia Estrada | _pendiente_ |
-| _Tercer integrante_ | _pendiente_ |
