@@ -60,5 +60,5 @@ EA3_IncorporandoUI_BD/
 
 | Integrante | Repositorio |
 |------------|-------------|
-| Daniela Cataño Hernández | [_pendiente_](https://github.com/danielacatanoh-hue/EA3_IncorporandoUI_BD/blob/main/README.md) |
+| Daniela Cataño Hernández | (https://github.com/danielacatanoh-hue/EA3_IncorporandoUI_BD/blob/main/README.md) |
 | Anderson Julián Valencia Estrada | _pendiente_ |
